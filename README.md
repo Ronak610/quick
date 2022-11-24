@@ -1,6 +1,4 @@
 # quick
-#output
-http://localhost:56780/#/
 
 A new Flutter project.
 
