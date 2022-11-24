@@ -1,4 +1,6 @@
 # quick
+#output
+file:///D:/vitrag/quick%20start.pdf
 
 A new Flutter project.
 
